@@ -207,7 +207,7 @@ defineProps({
 });
 
 const count = ref(0);
-let position = ref("right");
+let position = ref("top");
 let displayTime = ref(10);
 
 
