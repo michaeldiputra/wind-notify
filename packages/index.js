@@ -54,7 +54,7 @@ function toastDefaultStyle(toastyContainer, position, zIndex = 10000) {
     // Set the fixed positioning and other styles
     toastyContainer.style.position = 'fixed';
     toastyContainer.style.zIndex = zIndex;
-    toastyContainer.style.width = '300px'; // Set a default width
+    toastyContainer.style.width = '32rem'; // Set a default width
 
     switch(position) {
         case 'left':

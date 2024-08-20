@@ -107,7 +107,7 @@
                         <button class="btn btn-error" @click="
                             startWindToast(
                                 'Error Example!',
-                                'This is a error',
+                                'Et quia sunt qui expedita est voluptatem incidunt. Odit aut dolorem cumque id. Hic sunt corrupti vel eos soluta. Labore rerum in dicta illum et sapiente sed molestiae. Sed eos veniam ut ut doloribus iure omnis.',
                                 'error',
                                 displayTime,
                                 position
